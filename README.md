@@ -1,4 +1,5 @@
 # "Planning with the Gemini API" - a Firebase AI sample app
+https://inyat-gif.github.io/firebase-ai-inyat/
 
 Welcome to the _Planning with the Gemini API_ sample app, an AI-powered web app
 for to-do lists! It's an [Angular](https://angular.io/) app built using the
